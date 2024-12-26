@@ -142,7 +142,7 @@ python client.py
     - `draw(win)`: Draws the button on the game window.
     - `click(pos)`: Checks if the button has been clicked.
 
-## 🤝Contributing Guidelines
+## 🤝Contributing Guidelines 
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
